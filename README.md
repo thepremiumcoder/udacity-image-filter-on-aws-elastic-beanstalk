@@ -8,8 +8,6 @@ Sample Request:
 [Sample Request](http://udacity-image-filter-api-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fbsvcwqnj5mgkzuwy24r.png)
 
 
-GitHub Repo:
-[Repo](https://github.com/thepremiumcoder/udacity-image-filter-on-aws-elastic-beanstalk)
 
 
 
